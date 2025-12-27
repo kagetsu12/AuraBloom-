@@ -1,0 +1,18 @@
+{
+  "name": "aurabloom",
+  "version": "1.0.0",
+  "description": "AuraBloom - Soft Lifestyle Inspirations Blog",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "deploy": "echo 'Use Cloudflare Pages automatic deployment'"
+  },
+  "keywords": [
+    "static-site",
+    "blog",
+    "lifestyle"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
