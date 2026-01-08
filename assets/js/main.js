@@ -13,10 +13,10 @@ const posts = [
     dateLabel: 'Dec 3, 2025',
     readTime: '9 min read',
     excerpt:
-      '在悉尼的一座海洋世界里，与超过 4,000 种海洋生物面对面，用一整天的时间真正理解「生物多样性」这四个字的分量。',
+      'In the heart of Sydney, one aquarium gathers over 4,000 marine creatures and multiple ocean habitats under one roof — turning a simple day out into an immersive lesson in marine biodiversity and a small personal vote for the planet\'s future.',
     heroImage: 'image/头图.png',
     tags: ['marine life', 'biodiversity', 'Sydney travel'],
-    primaryProduct: '悉尼海洋世界门票 & 海岸步道一日组合',
+    primaryProduct: 'Sydney SEA LIFE Aquarium tickets & coastal walk day experience',
     detailUrl: 'post-meet-over-marine-creatures.html',
   },
   {
